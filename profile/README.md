@@ -1,5 +1,5 @@
 
-![Huud Technology Banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![Huud Technology Banner](https://masoudmukhtar.com/custom/DevBg.png)
 
 # 🐋 Huud Technology®
 Welcome to the official GitHub repository of Huud Technology! 🚀 We're on a mission to create innovative digital solutions that drive positive change and transform lives in Somalia and beyond. This README.md file is your gateway to exploring our projects, understanding our tech stack, and connecting with our vibrant tech community.
